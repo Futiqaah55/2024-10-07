@@ -1,4 +1,21 @@
+body {
+    background-color: azure;
+    text-align: justify;
+}
+
+
 #content { 
     width: 600px;
     border: 2px solid blue;
+    margin: auto;
+    padding:  10px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+
+img {
+    /* width: 600px; */
+    max-width: 100%;
+    
 }
